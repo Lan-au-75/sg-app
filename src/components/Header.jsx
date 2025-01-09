@@ -16,7 +16,7 @@ function Header() {
                         <Link to='/'>Trang chủ</Link>
                     </li>
                     <li className='hover:text-slate-500'>
-                        <Link to='/about'>Giới thiệu</Link>
+                        <Link to='about'>Giới thiệu</Link>
                     </li>
                 </ul>
 
